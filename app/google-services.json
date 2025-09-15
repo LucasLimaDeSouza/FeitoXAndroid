@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "902797678593",
+    "project_id": "feitox-eeacb",
+    "storage_bucket": "feitox-eeacb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902797678593:android:19729b8545462904264800",
+        "android_client_info": {
+          "package_name": "com.example.feitox_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902797678593-9pfml8gd2dv32dg4jo4du4r1q8h5ol73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDGqcEKQsI7legMJ3WNBGJJ14-yGIlXPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902797678593-9pfml8gd2dv32dg4jo4du4r1q8h5ol73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
