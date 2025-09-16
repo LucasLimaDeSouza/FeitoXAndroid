@@ -2,11 +2,7 @@
   FeitoX Android
 </h1> 
   
-<h2>
-  
 Um aplicativo Android moderno e elegante para gerenciamento de tarefas com sincronização em nuvem
-<></>
-</h2>
 
 <h2>
   Tecnologias Utilizadas
